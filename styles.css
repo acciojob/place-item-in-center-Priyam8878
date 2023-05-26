@@ -6,9 +6,10 @@
 	width:100%;
 	justify-content:center;
 	align-item:center;
+	position:center;
 	
 }
 .item{
 	border:1px solid black;
-	width:50px;
+	
 }
